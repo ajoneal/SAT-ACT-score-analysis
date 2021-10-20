@@ -1,4 +1,4 @@
-,state,sat_participation_rate,read_and_write_score,math_score,total_score,act_participation_rate,composite_score
+,state,sat_participation_rate,read_and_write_score,math_score,total_sat_score,act_participation_rate,composite_score
 0,Alabama,0.07,583,560,1143,1.0,18.9
 1,Alaska,0.41,556,541,1097,0.38,20.1
 2,Arizona,0.31,569,565,1134,0.73,19.0
