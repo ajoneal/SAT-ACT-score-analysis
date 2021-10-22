@@ -1,4 +1,4 @@
-# 2019 Standardized Test Analysis for Recruiting High Performing Students
+# 2019 Standardized Test Analysis for Recruiting Top Academic Talent
 
 
 ### Project Overview
@@ -14,6 +14,7 @@ Top colleges recruit high performing high school students and require higher tes
 
 #### Additional Resources
 *An article from the Washington Post states that colleges spend billions on marketing themselves to potential students.*(https://www.washingtonpost.com/local/education/colleges-marketing-student-recruitment/2021/09/30/b6ddd246-2166-11ec-8200-5e3fd4c49f5e_story.html)
+*This article shows states that required high school students to take SAT or ACT tests in 2019.* (https://testive.com/state-sat-act/)
 
 ---
 
@@ -56,7 +57,7 @@ Based on the data, I would recommend colleges invest marketing resources to some
 
 ### Presentation Link
 
-
+(https://docs.google.com/presentation/d/1dfQUBUs9t_IqJtf0C1xJoqU5joIg6WfDfLtb9whe_to/edit?usp=sharing)
 
 ---
 
