@@ -14,6 +14,7 @@ Top colleges recruit high performing high school students and require higher tes
 
 #### Additional Resources
 *An article from the Washington Post states that colleges spend billions on marketing themselves to potential students.*(https://www.washingtonpost.com/local/education/colleges-marketing-student-recruitment/2021/09/30/b6ddd246-2166-11ec-8200-5e3fd4c49f5e_story.html)
+
 *This article shows states that required high school students to take SAT or ACT tests in 2019.* (https://testive.com/state-sat-act/)
 
 ---
