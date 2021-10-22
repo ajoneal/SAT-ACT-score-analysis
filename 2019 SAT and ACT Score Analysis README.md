@@ -1,7 +1,7 @@
 # 2019 Standardized Test Analysis for Recruiting High Performing Students
 
 
-### Problem Statement
+### Project Overview
 
 Top colleges recruit high performing high school students and require higher test scores for those students to be able to get into their school. This project aims at helping those colleges find where they can recruit more high performing students based on standardized test scores across the country and allocate more marketing resources to those states.
 
